@@ -1,4 +1,4 @@
-package review;
+package day12_senkronizasyon.review;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;

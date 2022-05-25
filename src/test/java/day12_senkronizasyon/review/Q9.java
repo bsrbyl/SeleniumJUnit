@@ -1,4 +1,4 @@
-package review;
+package day12_senkronizasyon.review;
 
 public class Q9 {
     //1. Launch browser
